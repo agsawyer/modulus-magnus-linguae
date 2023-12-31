@@ -1,0 +1,1 @@
+This folder contains many hand transcribed versions of the exercises that we used to evaluate the model on.
